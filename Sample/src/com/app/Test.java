@@ -11,6 +11,7 @@ public class Test implements A{
 		System.out.println(A.x);
 		Test t = new Test();
 		t.show();
+		t.display();
 		
 	}
 
